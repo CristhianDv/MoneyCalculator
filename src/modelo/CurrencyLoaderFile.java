@@ -14,7 +14,7 @@ public class CurrencyLoaderFile implements CurrencyLoader {
     public void loadAllCurrency() {
         BufferedReader br;
         try {
-            br = new BufferedReader(new FileReader(new File("Divisas.txt")));
+            br = new BufferedReader(new FileReader(new File("currencies.txt")));
             String linea;
             while ((linea = br.readLine()) != null) {
                 String[] caracteristicasDivisa = linea.split(" , ");
