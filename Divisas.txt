@@ -1,0 +1,34 @@
+UK Pound , GBP , £          
+Czech Koruna , CZK , Kč
+Swiss Franc , CHF , CHF
+Danish Krone , DKK , kr     
+Korean Won , KRW , ₩        
+Swedish Krona , SEK , kr    
+Turkish Lira , TRY , ₤      
+Hungarian Forint , HUF , Ft 
+Brazilian Real , BRL , R$   
+Lithuanian Litas , LTL , Lt 
+Bulgarian Lev , BGN , лB    
+Polish Zloty , PLN , zł     
+US Dollar , USD , $         
+Russian Ruble , RUB , руб   
+Japanese Yen , JPY , ¥      
+Romanian New Leu , RON , lei
+Norwegian Krone , NOK , kr  
+Australian Dollar , AUD , $ 
+Israeli Shekel , ILS , ₪    
+New Zealand Dollar , NZD , $
+Indonesian Rupiah , IDR , Rp
+Philippine Peso , PHP , ₱   
+Euro , EUR , €              
+Canadan Dollar , CAD , $    
+Chinese Yuan , CNY , ¥      
+Hong Kong Dollar , HKD , $  
+Indian Rupee , INR , ₨      
+Mexican Peso , MXN , $      
+Malaysian Ringgit , MYR , RM
+South African Rand , ZAR , R
+Thai Baht , THB , ฿       
+Singaporean Dollar , SGD , $
+Kina , PGK , PGK
+Somoni Tayiko , TJS , TJS
